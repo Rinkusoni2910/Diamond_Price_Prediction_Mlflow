@@ -1,6 +1,7 @@
 # Diamond_Price_Prediction_Mlflow
 # Introduction to Experiment Tracking
 #Terminologies:
+
 1. Experiment
 2. Run
 3. Metadata (i.e. Tags, Parameters, Metrics)
