@@ -1,5 +1,0 @@
-mlflow
-cloudpickle==1.6.0
-pathlib==1.0.1
-psutil==5.8.0
-scikit-learn==1.1.2
