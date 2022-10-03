@@ -56,7 +56,7 @@ with mlflow.start_run():
 - Way 1 - mlflow.<FRAMEWORK>.log_model(MODEL_OBJECT, artifact_path="PATH")
 - Way 2 - mlflow.log_artifact(LOCAL_PATH, artifact_path="PATH")
 
-# Below are screenshots of experiment tracking of diamond price prediction models
+# Below are screenshots of experiment tracking and model management of diamond price prediction models
 ![image](https://user-images.githubusercontent.com/65038531/193413610-73fe5599-a4c6-453b-8698-216f096bcf50.png)
 
 ![image](https://user-images.githubusercontent.com/65038531/193414436-fe7778f5-dc60-4e66-a36e-a3294ad21a70.png)
